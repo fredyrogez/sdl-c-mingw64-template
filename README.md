@@ -1,0 +1,3 @@
+# SDL C MinGW64 Template
+...
+SDL C MinGW64 Template

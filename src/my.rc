@@ -1,0 +1,24 @@
+1 ICON "../dist/assets/icon.ico"
+1 VERSIONINFO
+FILEVERSION     1,0,0,0
+PRODUCTVERSION  1,0,0,0
+BEGIN
+  BLOCK "StringFileInfo"
+  BEGIN
+    BLOCK "040904E4"
+    BEGIN
+      VALUE "CompanyName", "Compagny Name"
+      VALUE "FileDescription", "My Game"
+      VALUE "FileVersion", "1.0.0"
+      VALUE "InternalName", "my_game"
+      VALUE "LegalCopyright", "My Name"
+      VALUE "OriginalFilename", "game.exe"
+      VALUE "ProductName", "My Game"
+      VALUE "ProductVersion", "1.0.0"
+    END
+  END
+  BLOCK "VarFileInfo"
+  BEGIN
+    VALUE "Translation", 0x040C, 1252
+  END
+END
