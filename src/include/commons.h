@@ -2,7 +2,7 @@
 // 
 // https://github.com/rogez/sdl-c-mingw64-template
 //
-// MIT License - Copyright (C) 2020 Fredy Rogez (rogez.net)
+// MIT License - Copyright (C) 2020-2021 Fredy Rogez (https://rogez.games)
 // This file is subject to the terms and conditions defined in
 // file "LICENSE", which is part of this source code package.
 
